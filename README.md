@@ -1,4 +1,4 @@
-# AI Planet PDF Q&A Fullstack App
+# AI  PDF Q&A Fullstack App
 
 ## Overview
 This project is a fullstack application that allows users to upload PDF documents and ask questions about their content. The backend processes the PDFs, extracts text, and uses an LLM (OpenAI via LangChain) to answer questions. The frontend provides a modern chat interface.
